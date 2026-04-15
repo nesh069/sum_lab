@@ -22,5 +22,5 @@ This project uses the [Free Dictionary API](https://dictionaryapi.dev/).
 
 1. Clone the repository:
    ```bash
-   git clone &lt;https://github.com/nesh069/sum_lab;
+   git clone;https://github.com/nesh069/sum_lab;
    cd wordly-dictionary
